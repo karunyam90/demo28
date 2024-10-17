@@ -1,0 +1,36 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: #36454F;
+}
+.container{
+/* height:30vh; */
+/* background: white; */
+margin:250px 680px;
+padding:5px;
+width:15vw;
+
+}
+.button-border{
+    margin:25px 50px 75px 60px;
+    background: linear-gradient(115deg,#eeaf61,#fb9062,#ee5dfc,#6a0d83);
+    padding:5px;
+    border-radius:2.5px;
+    
+}
+button{
+    width:100%;
+    padding:15px;
+    font-size: 15px;
+    border:none;
+    background: black;
+    letter-spacing: 1px;
+    color:aquamarine
+}
+button:hover{
+color:aliceblue;
+background-color:goldenrod ;
+}
+.button-border:hover{
+    padding: 7px;
+}
